@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/FoodDelivery/bin/Debug/netcoreapp3.1/FoodDelivery.deps.json
+/Users/migleczigergo/Projects/FoodDelivery/bin/Debug/netcoreapp3.1/FoodDelivery.runtimeconfig.json
+/Users/migleczigergo/Projects/FoodDelivery/bin/Debug/netcoreapp3.1/FoodDelivery.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/FoodDelivery/bin/Debug/netcoreapp3.1/FoodDelivery.dll
+/Users/migleczigergo/Projects/FoodDelivery/bin/Debug/netcoreapp3.1/FoodDelivery.pdb
+/Users/migleczigergo/Projects/FoodDelivery/obj/Debug/netcoreapp3.1/FoodDelivery.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/FoodDelivery/obj/Debug/netcoreapp3.1/FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/FoodDelivery/obj/Debug/netcoreapp3.1/FoodDelivery.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/FoodDelivery/obj/Debug/netcoreapp3.1/FoodDelivery.AssemblyInfo.cs
+/Users/migleczigergo/Projects/FoodDelivery/obj/Debug/netcoreapp3.1/FoodDelivery.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/FoodDelivery/obj/Debug/netcoreapp3.1/FoodDelivery.dll
+/Users/migleczigergo/Projects/FoodDelivery/obj/Debug/netcoreapp3.1/FoodDelivery.pdb
+/Users/migleczigergo/Projects/FoodDelivery/obj/Debug/netcoreapp3.1/FoodDelivery.genruntimeconfig.cache
